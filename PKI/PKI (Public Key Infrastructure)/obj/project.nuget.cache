@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "4W6Vap+e5rpcIsBLU6LgOdErVgH+cxTZD3wY64lujg1zsASpvTFrOQjz9Sbjyg0p+x2HmOmtx2J1J8litDSwIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sushant.basnet\\PKI\\PKI\\PKI (Public Key Infrastructure)\\PKI (Public Key Infrastructure).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\5.0.10\\microsoft.aspnetcore.authentication.certificate.5.0.10.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\sushant.basnet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
